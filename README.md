@@ -8,3 +8,4 @@ Members
 
 * Uni-
 * Choi Jinwoo
+* KimKyungTae
